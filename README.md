@@ -1,6 +1,6 @@
-# vue lunch & learn part 1
+# vue lunch & learn part 2
 
-Notes: https://docs.google.com/document/d/1Yr4jylcFGZU3bLPWfBt8B_79SPqVnRvgWjwDiE2VuvM/edit?usp=sharing
+Notes: https://docs.google.com/document/d/12DDa_vLtKYw2jvM-zsZPc35e8-e-iS4cnhA2t-bTg3M/edit?usp=sharing
 
 ## Project setup
 ```
