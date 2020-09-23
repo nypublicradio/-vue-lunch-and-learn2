@@ -27,7 +27,7 @@
     <p v-if="selectedShow">{{ selectedShow }}</p>
     <p v-else>no show for you!</p>
     <v-button
-        label="kim is also cool"
+        label="this is a button"
         href="http://www.google.com"
         target="_blank"
     >
@@ -42,6 +42,12 @@
     >
       <audio-icon />
     </v-button>
+    <br>
+    <v-button
+        label="no icon here"
+        href="http://www.google.com"
+        target="_blank"
+    />
     <br>
     <v-button
         href="http://www.google.com"
